@@ -1,0 +1,4 @@
+baseURL = 'https://LivOlofsson.org/'
+languageCode = 'en-us'
+title = 'Project Showcase'
+theme = 'ananke'
