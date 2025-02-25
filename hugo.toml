@@ -1,4 +1,4 @@
-baseURL = 'https://LivOlofsson.org/'
+baseURL = 'https://livolofsson.github.io/AnankeBlog/'
 languageCode = 'en-us'
 title = 'Project Showcase'
 theme = 'ananke'
