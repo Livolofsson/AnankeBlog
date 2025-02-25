@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://LivOlofsson.org/posts/</loc>
+    <loc>http://localhost:57156/posts/my-first-post/</loc>
     <lastmod>2025-02-25T17:50:48+01:00</lastmod>
   </url><url>
-    <loc>https://LivOlofsson.org/</loc>
+    <loc>http://localhost:57156/posts/</loc>
     <lastmod>2025-02-25T17:50:48+01:00</lastmod>
   </url><url>
-    <loc>https://LivOlofsson.org/categories/</loc>
+    <loc>http://localhost:57156/</loc>
+    <lastmod>2025-02-25T17:50:48+01:00</lastmod>
   </url><url>
-    <loc>https://LivOlofsson.org/tags/</loc>
+    <loc>http://localhost:57156/categories/</loc>
+  </url><url>
+    <loc>http://localhost:57156/tags/</loc>
   </url>
 </urlset>
