@@ -2,3 +2,9 @@ baseURL = 'https://livolofsson.github.io/AnankeBlog/'
 languageCode = 'en-us'
 title = 'Project Showcase'
 theme = 'ananke'
+
+[menu]
+  [[menu.main]]
+    name = "Articles"
+    url = "/post/"
+    weight = 1
